@@ -1,0 +1,9 @@
+{
+  "domain": "pnd",
+  "name": "PND",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/PND",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": []
+}
