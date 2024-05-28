@@ -1,9 +1,0 @@
-{
-  "domain": "pnd",
-  "name": "PND",
-  "version": "0.9.5",
-  "documentation": "https://github.com/ondrejvysek/HACS-CEZ-PND",
-  "dependencies": [],
-  "codeowners": ["@ondrejvysek"],
-  "requirements": []
-}
