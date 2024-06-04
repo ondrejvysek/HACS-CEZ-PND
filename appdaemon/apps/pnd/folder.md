@@ -1,0 +1,1 @@
+Docasny soubor
